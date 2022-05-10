@@ -7,6 +7,5 @@ voila
 ipympl
 ipyvolume
 scipy
-StringlO
 platform
 time
