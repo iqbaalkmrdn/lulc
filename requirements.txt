@@ -4,3 +4,6 @@ ipywidgets
 bqplot
 ipyleaflet
 voila
+ipympl
+ipyvolume
+scipy
