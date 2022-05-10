@@ -9,3 +9,4 @@ ipyvolume
 scipy
 platform
 time
+StringIO
