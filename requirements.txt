@@ -1,7 +1,7 @@
-os
 ee
 geemap
 ipywidgets
 bqplot
 ipyleaflet
 pickle
+voila
