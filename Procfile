@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --strip_sources=True --enable_nbextensions=True --MappingKernelManager.cull_interval=60 --MappingKernelManager.cull_idle_timeout=120 --show_tracebacks=True iqbaalkmrdn/lulc/lu_lc.ipynb
+web: voila --port=$PORT --no-browser --strip_sources=True --enable_nbextensions=True --MappingKernelManager.cull_interval=60 --MappingKernelManager.cull_idle_timeout=120 iqbaalkmrdn/lulc/lu_lc.ipynb
