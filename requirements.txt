@@ -7,3 +7,6 @@ voila
 ipympl
 ipyvolume
 scipy
+StringIO
+platform
+time
